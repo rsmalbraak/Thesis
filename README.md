@@ -16,7 +16,7 @@ DATA:
 
 GAN:
 * AC-GAN.py: Contains code for the implemented customized AC-GAN (see thesis for explanation used modules and hyperparameter choices)
-* HAC-GAN.py: Contains code for the implemented hierarchical AC-GAN, which used the Node2Vec graph embedding method to incorporate hierarchical relations between classes into GAN's image generating process (see thesis for explanation used modules and hyperparameter choices)
+* HAC-GAN.py: Contains code for the implemented Hierarchical AC-GAN (HAC-GAN), which uses the Node2Vec graph embedding method to incorporate hierarchical relations between classes into GAN's image generating process (see thesis for explanation used modules and hyperparameter choices)
 * Generate_CXR.py: Contains code for generating the synthetic CXRs after training AC-GAN or HAC-GAN
 
 DTL:
