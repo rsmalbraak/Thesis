@@ -1,0 +1,3 @@
+0 COVID-19 pneumonia
+1 non-COVID-19 pneumonia
+2 normal
