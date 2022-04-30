@@ -8,7 +8,7 @@ Author: Ruth Smalbraak
 This repository contains the following files (with references to codes that we base our implementation on if applicable): 
 
 DATA: 
-* CXR_dataset_split.py: Contains code for creating the CXR dataset/rearranging the COVIDx V8A dataset into a new train/test split such that the train and test sets only contain images that originate from different datasets. Also provides the urls to download the used datasets 
+* CXR_dataset_split.py: Contains code for creating the CXR dataset/rearranging the COVIDx V8A dataset into a new train/test split such that the train and test sets only contain images that originate from different datasets. Also provides the URLs to download the used datasets 
 * CXR_split.csv : Contains all file names and labels of the images present in our CXR dataset from the COVIDx V8A dataset. Is used in CXR_dataset_split.py to create the new train/test split
 * normal_Shenzhen.txt : Contains the file names of the 270 normal images used from the Shenzhen dataset
 * Fruit : Contains five text files with file names of the apple, banana, lemon, lime and pear images used in the Fruit dataset (for replication purposes). Dataset an be downloaded from: https://www.kaggle.com/datasets/aelchimminut/fruits262
